@@ -1,3 +1,6 @@
 type-cache.json
+*.pyc
+*.pyo
+*.pyd
 .venv
 .env
